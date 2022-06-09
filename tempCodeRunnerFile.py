@@ -1,0 +1,8 @@
+title_value = Label (root,text="Title : ")
+# title_value.place(x = 130,y = 150)
+# views_value = Label (root,text="Length : ")
+# views_value.place(x = 130,y = 200)
+# length_value = Label (root,text="Length : ")
+# length_value.place(x = 130,y = 250)
+# rating_value = Label (root,text="Rating : ")
+# rating_value.place(x = 130,y = 300)
